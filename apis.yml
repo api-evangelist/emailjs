@@ -39,7 +39,6 @@ apis:
   - name: EmailJS
     description: "Send emails directly from client-side JavaScript without a backend server"
     humanURL: https://www.emailjs.com/docs/
-    baseURL: https://www.emailjs.com/docs/
     tags:
       - Email
     properties:
